@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hola, soy Milagros!
+Soy desarrolladora de software y actualmente estoy en el camino hacia convertirme en Full Stack. Estoy aprendiendo tecnologías como Python, Django, Flask, React, y Bases de Datos, y me apasiona crear proyectos que resuelvan problemas del mundo real.
 
-<!--
-**MilagrosCabrera23/MilagrosCabrera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ¿Qué hago?
+Desarrollo aplicaciones Full Stack utilizando tecnologías como Python, Django, Flask y JavaScript.
+Me enfoco en crear soluciones escalables y de calidad.
 
-Here are some ideas to get you started:
+Trabajo tanto en front-end como en back-end, creando experiencias interactivas y funcionales.
+Actualmente, estoy aprendiendo sobre ciberseguridad y computación en la nube.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En mi tiempo libre, estoy emprendiendo con un negocio de ropa llamado Rosé Lucia.
+
+📚 Habilidades y Tecnologías
+
+- Backend: Python, Django, Flask, Node.js
+- Frontend: React.js, HTML, CSS, JavaScript
+- Bases de Datos: MySQL, PostgreSQL
+- Herramientas: Git, GitHub,Trello, Scrum, Jira.
+- Otros: Ciberseguridad, DevOps, computación en la nube
+
+🛠️ Proyectos Destacados: 
+
+
+🌐 Conecta conmigo
+- LinkedIn: www.linkedin.com/in/milagros-cabrera-dev 
+- Correo electrónico: milagrosmagalycabrera@gmail.com 
