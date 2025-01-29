@@ -16,7 +16,7 @@ En mi tiempo libre, estoy emprendiendo con un negocio de ropa llamado Rosé Luci
 - Frontend: React.js, HTML, CSS, JavaScript
 - Bases de Datos: MySQL, PostgreSQL
 - Herramientas: Git, GitHub,Trello, Scrum, Jira.
-- Otros: Ciberseguridad, DevOps, computación en la nube
+- Otros: computación en la nube
 
 🛠️ Proyectos Destacados: 
 
