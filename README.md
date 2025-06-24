@@ -20,6 +20,8 @@ En mi tiempo libre, estoy emprendiendo con un negocio de ropa llamado Rosé Luci
 
 🌐 Conecta conmigo
 - LinkedIn: www.linkedin.com/in/milagros-cabrera-dev 
+
 -Portafolio: https://cabreramilagros-miportfolio.netlify.app
+
 - Correo electrónico: milagrosmagalycabrera@gmail.com 
 
