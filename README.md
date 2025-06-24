@@ -14,14 +14,14 @@ En mi tiempo libre, estoy emprendiendo con un negocio de ropa llamado Rosé Luci
 - Backend: Python, Django, FastApi.
 - Frontend: React.js, HTML, CSS, JavaScript,próximamente Angular. 
 - Bases de Datos: MySQL, PostgreSQL
-- Herramientas: Git, GitHub,Kanban,Trello. 
+- Herramientas: Git, GitHub,Scrum, Kanban,Trello. 
 - Otros: Modelado UML,BPMN. 
 
 
 🌐 Conecta conmigo
 - LinkedIn: www.linkedin.com/in/milagros-cabrera-dev 
 
--Portafolio: https://cabreramilagros-miportfolio.netlify.app
+- Portafolio: https://cabreramilagros-miportfolio.netlify.app
 
 - Correo electrónico: milagrosmagalycabrera@gmail.com 
 
