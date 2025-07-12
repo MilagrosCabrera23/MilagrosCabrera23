@@ -1,20 +1,17 @@
 👋 Hola, soy Milagros!
-Soy desarrolladora de software y actualmente estoy en el camino hacia convertirme en Full Stack.
+Soy Desarrolladora de Software en formación hacia un perfil Full Stack Developer, con sólida base en backend y creciente experiencia en frontend.
 
 🚀 ¿Qué hago?
-Desarrollo aplicaciones Full Stack utilizando tecnologías como Python, Django, FastApi y JavaScript.
-Me enfoco en crear soluciones escalables y de calidad.
+Desarrollo aplicaciones web Full Stack utilizando tecnologías como Python, Django, FastAPI y JavaScript, enfocándome en la creación de soluciones escalables, funcionales y con buen diseño de interfaz.
 
-Trabajo tanto en front-end como en back-end, creando experiencias interactivas y funcionales.
-
-En mi tiempo libre, estoy emprendiendo con un negocio de ropa llamado Rosé Lucia.
+Trabajo tanto en el frontend como en el backend, integrando componentes visuales interactivos con una lógica de negocio robusta.
 
 📚 Habilidades y Tecnologías
 
 - Backend: Python, Django, FastApi.
-- Frontend: React.js, HTML, CSS, JavaScript,próximamente Angular. 
-- Bases de Datos: MySQL, PostgreSQL
-- Herramientas: Git, GitHub,Scrum, Kanban,Trello. 
+- Frontend: React.js, HTML, CSS, JavaScript,Bootstrap, Tailwind CSS, próximamente Angular. 
+- Bases de Datos: MySQL
+- Herramientas: Git, GitHub,Scrum, Kanban. 
 - Otros: Modelado UML,BPMN. 
 
 
