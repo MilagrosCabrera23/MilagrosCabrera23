@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/112917284?v=4" alt="Milagros Magaly Cabrera" width="250px" style="border-radius:50%;">
   <h1>👋 ¡Hola a todos! Soy Milagros Magaly Cabrera</h1>
 </div>
 
