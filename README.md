@@ -1,41 +1,47 @@
 <div align="center">
-  <h1>👋 ¡Hola a todos! Soy Milagros Magaly Cabrera</h1>
+  <h1>👋 ¡Hola a todos! Soy Milagros Cabrera</h1>
 </div>
 
-<p align="center">
-  Soy una <b>Desarrolladora de Software</b> apasionada en formación, con una sólida base en <b>Backend</b> y una creciente experiencia en <b>Frontend</b>. Mi objetivo es convertirme en una <b>Full Stack Developer</b> y construir soluciones innovadoras y eficientes.
-</p>
+<h4 align="center">
+  Soy una <b>Desarrolladora Backend</b> especializada en <b>Python</b>,con un roadmap claro hacia la <b>Integración de Inteligencia Artificial</b>.  Mi objetivo es construir <b>APIs robustas, escalables y eficientes</b> que impulsen la lógica de negocio.
+</h4>
 
 ---
 
-### 🚀 ¿Qué hago?
+### ¿Qué hago?
 
-Desarrollo aplicaciones web Full Stack, especializándome en la creación de soluciones escalables, funcionales y con un diseño de interfaz intuitivo. Mi enfoque es integrar componentes visuales interactivos en el frontend con una lógica de negocio robusta en el backend.
+Me especializo en el <b>desarrollo del Backend</b>, donde transformo requisitos funcionales en soluciones de código limpio, alto rendimiento y fácil mantenimiento.
+
+### ¿Como lo hago?
+- **Creación de APIs Robustas:** Diseño y desarrollo de APIs RESTful y sistemas de microservicios utilizando Django y FastAPI, enfocada en la seguridad y la escalabilidad (preparada para manejar alto tráfico).
+  
+- **Fundación Full Stack:** Mantengo la capacidad de desarrollar la capa de Frontend (utilizando Angular y frameworks CSS rápidos) para asegurar una integración fluida y una experiencia de usuario funcional.
 
 ---
 
-### 🛠️ Habilidades y Tecnologías
+###  Habilidades y Tecnologías
 
 **Backend:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0099DD?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Frontend:**<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Bases de Datos:**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Herramientas de Desarrollo:**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-267B98?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Herramientas:**<br>
@@ -46,7 +52,7 @@ Desarrollo aplicaciones web Full Stack, especializándome en la creación de sol
 
 ---
 
-### 🌐 Conecta conmigo
+###  Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/milagros-cabrera-dev/" target="_blank">
