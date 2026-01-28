@@ -3,40 +3,41 @@
 </div>
 
 <h4 align="center">
-  Soy una <b>Desarrolladora Backend</b> especializada en <b>Python</b>,con un roadmap claro hacia la <b>Integración de Inteligencia Artificial</b>.  Mi objetivo es construir <b>APIs robustas, escalables y eficientes</b> que impulsen la lógica de negocio.
+Soy una <b>Desarrolladora Full Stack</b> con una base sólida en <b>Python (Backend)</b> y enfocada actualmente en crear experiencias modernas en el <b>Frontend</b> con <b>Next.js</b>. Mi objetivo es construir soluciones integrales, escalables y con integración de <b>IA</b>.
 </h4>
 
 ---
 
-### ¿Qué hago?
-
-Me especializo en el <b>desarrollo del Backend</b>, donde transformo requisitos funcionales en soluciones de código limpio, alto rendimiento y fácil mantenimiento.
-
-### ¿Como lo hago?
-- **Creación de APIs Robustas:** Diseño y desarrollo de APIs RESTful y sistemas de microservicios utilizando Django y FastAPI, enfocada en la seguridad y la escalabilidad (preparada para manejar alto tráfico).
-  
-- **Fundación Full Stack:** Mantengo la capacidad de desarrollar la capa de Frontend (utilizando Angular y frameworks CSS rápidos) para asegurar una integración fluida y una experiencia de usuario funcional.
-
+### ¿Qué estot haciendo actualmente?
+- **Frontend Moderno:** Desarrollando interfaces rápidas y optimizadas con **Next.js, TypeScript y Tailwind CSS**, integrando servicios como **Supabase** y **Cloudinary**.
+- **Backend Robusto:** Diseñando APIs RESTful eficientes con **Django y FastAPI**, con un enfoque en la escalabilidad y la lógica de negocio limpia.
+- **Aprendizaje Continuo:** Evolucionando mi stack hacia la integración de Inteligencia Artificial y arquitecturas en la nube.
 ---
 
 ###  Habilidades y Tecnologías
+
+**Frontend:**<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0099DD?style=for-the-badge&logo=pytest&logoColor=white)
-
-**Frontend:**<br>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Bases de Datos:**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 **DevOps & Herramientas de Desarrollo:**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
